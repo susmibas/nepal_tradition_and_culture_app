@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408175474405",
+    "project_id": "ntaca-340a2",
+    "storage_bucket": "ntaca-340a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408175474405:android:a5149d8ffb710300a8460c",
+        "android_client_info": {
+          "package_name": "com.example.nepal_tradition_and_culture_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408175474405-rteqnvdicsko1ur1fomnm4htcndf414s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCsubomSXAg6qBLt_j23RXkWrZHd9KKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408175474405-rteqnvdicsko1ur1fomnm4htcndf414s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
